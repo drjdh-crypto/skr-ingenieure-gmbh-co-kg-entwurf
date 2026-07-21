@@ -1,0 +1,498 @@
+{
+  "version": "11.0-composition-engine",
+  "source_url": "https://www.skr-ingenieure.de/index.htm",
+  "site_type": "onepager",
+  "company_name": "SKR Ingenieure GmbH & Co. KG",
+  "industry": "Tragwerksplanung, Baustatik und Bauphysik",
+  "archetype": "technical-editorial",
+  "sections": [
+    "hero",
+    "services",
+    "trust",
+    "references",
+    "team",
+    "process",
+    "about",
+    "contact"
+  ],
+  "primary_cta": "Kontakt aufnehmen",
+  "services": [
+    "Tragwerksplanung",
+    "Bauphysik",
+    "Bautechnische Prüfung",
+    "Gutachten",
+    "SKR Ingenieure | Leistungen",
+    "Ingenieurleistungen aus einer Hand"
+  ],
+  "brand_palette": {
+    "primary": "#043F65",
+    "secondary": "#E8EEEC",
+    "accent": "#003A63",
+    "background": "#F7F8F6",
+    "surface": "#FFFFFF",
+    "text": "#172126",
+    "border": "#D4DAD7",
+    "muted": "#68757A",
+    "hover": "#003A63",
+    "confidence": 0.82,
+    "source": "images/002-logo-neu-50577581.png"
+  },
+  "palette_strategy": "preserve_primary_modernize_rest",
+  "image_strategy": {
+    "logo": {
+      "file": "images/002-logo-neu-50577581.png",
+      "role": "logo",
+      "width": 300,
+      "height": 112,
+      "source_url": "https://www.skr-ingenieure.de/src/img/allgemein/logo-neu.png",
+      "found_on": [
+        "https://www.skr-ingenieure.de/index.htm",
+        "https://www.skr-ingenieure.de/leistungen.htm",
+        "https://www.skr-ingenieure.de/kontakt-anfahrt.htm",
+        "https://www.skr-ingenieure.de/kontakt.htm",
+        "https://www.skr-ingenieure.de/referenzen.htm",
+        "https://www.skr-ingenieure.de/stellenangebote.htm",
+        "https://www.skr-ingenieure.de/ueber-uns-geschaeftsleitung.htm",
+        "https://www.skr-ingenieure.de/ueber-uns.htm",
+        "https://www.skr-ingenieure.de/links.htm",
+        "https://www.skr-ingenieure.de/datenschutz.htm",
+        "https://www.skr-ingenieure.de/impressum.htm"
+      ]
+    },
+    "hero": {
+      "file": "images/003-1-f8094da8.jpg",
+      "role": "hero",
+      "width": 450,
+      "height": 260,
+      "source_url": "https://www.skr-ingenieure.de/src/img/startseite/slider/1.jpg",
+      "found_on": [
+        "https://www.skr-ingenieure.de/index.htm"
+      ]
+    },
+    "references": [
+      {
+        "file": "images/001-resp-nav-1203b020.png",
+        "role": "reference",
+        "width": 50,
+        "height": 50,
+        "source_url": "https://www.skr-ingenieure.de/src/img/allgemein/resp-nav.png",
+        "found_on": [
+          "https://www.skr-ingenieure.de/index.htm",
+          "https://www.skr-ingenieure.de/leistungen.htm",
+          "https://www.skr-ingenieure.de/kontakt-anfahrt.htm",
+          "https://www.skr-ingenieure.de/kontakt.htm",
+          "https://www.skr-ingenieure.de/referenzen.htm",
+          "https://www.skr-ingenieure.de/stellenangebote.htm",
+          "https://www.skr-ingenieure.de/ueber-uns-geschaeftsleitung.htm",
+          "https://www.skr-ingenieure.de/ueber-uns.htm",
+          "https://www.skr-ingenieure.de/links.htm",
+          "https://www.skr-ingenieure.de/datenschutz.htm",
+          "https://www.skr-ingenieure.de/impressum.htm"
+        ]
+      },
+      {
+        "file": "images/021-header-referenzen-43276836.jpg",
+        "role": "reference",
+        "width": 920,
+        "height": 255,
+        "source_url": "https://www.skr-ingenieure.de/src/img/referenzen/header-referenzen.jpg",
+        "found_on": [
+          "https://www.skr-ingenieure.de/referenzen.htm"
+        ]
+      },
+      {
+        "file": "images/022-hochbau-6903daa9.jpg",
+        "role": "reference",
+        "width": 333,
+        "height": 154,
+        "source_url": "https://www.skr-ingenieure.de/src/img/referenzen/hochbau.jpg",
+        "found_on": [
+          "https://www.skr-ingenieure.de/referenzen.htm"
+        ]
+      },
+      {
+        "file": "images/023-industriebau-34629561.jpg",
+        "role": "reference",
+        "width": 333,
+        "height": 154,
+        "source_url": "https://www.skr-ingenieure.de/src/img/referenzen/industriebau.jpg",
+        "found_on": [
+          "https://www.skr-ingenieure.de/referenzen.htm"
+        ]
+      },
+      {
+        "file": "images/026-umbauten-9ec1b99c.jpg",
+        "role": "reference",
+        "width": 333,
+        "height": 154,
+        "source_url": "https://www.skr-ingenieure.de/src/img/referenzen/umbauten.jpg",
+        "found_on": [
+          "https://www.skr-ingenieure.de/referenzen.htm"
+        ]
+      }
+    ],
+    "portraits": [
+      {
+        "file": "images/030-arrow-person-b4fa401d.png",
+        "role": "portrait",
+        "width": 13,
+        "height": 12,
+        "source_url": "https://www.skr-ingenieure.de/src/img/geschaeftsleitung/arrow-person.png",
+        "found_on": [
+          "https://www.skr-ingenieure.de/ueber-uns-geschaeftsleitung.htm"
+        ]
+      }
+    ],
+    "usable": [
+      {
+        "file": "images/001-resp-nav-1203b020.png",
+        "role": "reference",
+        "width": 50,
+        "height": 50,
+        "source_url": "https://www.skr-ingenieure.de/src/img/allgemein/resp-nav.png",
+        "found_on": [
+          "https://www.skr-ingenieure.de/index.htm",
+          "https://www.skr-ingenieure.de/leistungen.htm",
+          "https://www.skr-ingenieure.de/kontakt-anfahrt.htm",
+          "https://www.skr-ingenieure.de/kontakt.htm",
+          "https://www.skr-ingenieure.de/referenzen.htm",
+          "https://www.skr-ingenieure.de/stellenangebote.htm",
+          "https://www.skr-ingenieure.de/ueber-uns-geschaeftsleitung.htm",
+          "https://www.skr-ingenieure.de/ueber-uns.htm",
+          "https://www.skr-ingenieure.de/links.htm",
+          "https://www.skr-ingenieure.de/datenschutz.htm",
+          "https://www.skr-ingenieure.de/impressum.htm"
+        ]
+      },
+      {
+        "file": "images/002-logo-neu-50577581.png",
+        "role": "logo",
+        "width": 300,
+        "height": 112,
+        "source_url": "https://www.skr-ingenieure.de/src/img/allgemein/logo-neu.png",
+        "found_on": [
+          "https://www.skr-ingenieure.de/index.htm",
+          "https://www.skr-ingenieure.de/leistungen.htm",
+          "https://www.skr-ingenieure.de/kontakt-anfahrt.htm",
+          "https://www.skr-ingenieure.de/kontakt.htm",
+          "https://www.skr-ingenieure.de/referenzen.htm",
+          "https://www.skr-ingenieure.de/stellenangebote.htm",
+          "https://www.skr-ingenieure.de/ueber-uns-geschaeftsleitung.htm",
+          "https://www.skr-ingenieure.de/ueber-uns.htm",
+          "https://www.skr-ingenieure.de/links.htm",
+          "https://www.skr-ingenieure.de/datenschutz.htm",
+          "https://www.skr-ingenieure.de/impressum.htm"
+        ]
+      },
+      {
+        "file": "images/003-1-f8094da8.jpg",
+        "role": "hero",
+        "width": 450,
+        "height": 260,
+        "source_url": "https://www.skr-ingenieure.de/src/img/startseite/slider/1.jpg",
+        "found_on": [
+          "https://www.skr-ingenieure.de/index.htm"
+        ]
+      },
+      {
+        "file": "images/004-2-ac0d2234.jpg",
+        "role": "hero",
+        "width": 450,
+        "height": 260,
+        "source_url": "https://www.skr-ingenieure.de/src/img/startseite/slider/2.jpg",
+        "found_on": [
+          "https://www.skr-ingenieure.de/index.htm"
+        ]
+      },
+      {
+        "file": "images/005-3-db7320cc.jpg",
+        "role": "hero",
+        "width": 450,
+        "height": 260,
+        "source_url": "https://www.skr-ingenieure.de/src/img/startseite/slider/3.jpg",
+        "found_on": [
+          "https://www.skr-ingenieure.de/index.htm"
+        ]
+      },
+      {
+        "file": "images/006-4-24e6cad3.jpg",
+        "role": "hero",
+        "width": 450,
+        "height": 260,
+        "source_url": "https://www.skr-ingenieure.de/src/img/startseite/slider/4.jpg",
+        "found_on": [
+          "https://www.skr-ingenieure.de/index.htm"
+        ]
+      },
+      {
+        "file": "images/007-5-afe5c5b8.jpg",
+        "role": "hero",
+        "width": 450,
+        "height": 260,
+        "source_url": "https://www.skr-ingenieure.de/src/img/startseite/slider/5.jpg",
+        "found_on": [
+          "https://www.skr-ingenieure.de/index.htm"
+        ]
+      },
+      {
+        "file": "images/008-6-a540a229.jpg",
+        "role": "hero",
+        "width": 450,
+        "height": 260,
+        "source_url": "https://www.skr-ingenieure.de/src/img/startseite/slider/6.jpg",
+        "found_on": [
+          "https://www.skr-ingenieure.de/index.htm"
+        ]
+      },
+      {
+        "file": "images/009-ueber-uns-74d2519c.jpg",
+        "role": "hero",
+        "width": 215,
+        "height": 94,
+        "source_url": "https://www.skr-ingenieure.de/src/img/startseite/ueber-uns.jpg",
+        "found_on": [
+          "https://www.skr-ingenieure.de/index.htm"
+        ]
+      },
+      {
+        "file": "images/010-leistungen-be84e4dc.jpg",
+        "role": "hero",
+        "width": 216,
+        "height": 94,
+        "source_url": "https://www.skr-ingenieure.de/src/img/startseite/leistungen.jpg",
+        "found_on": [
+          "https://www.skr-ingenieure.de/index.htm"
+        ]
+      },
+      {
+        "file": "images/011-referenzen-8e09bbfe.jpg",
+        "role": "hero",
+        "width": 215,
+        "height": 94,
+        "source_url": "https://www.skr-ingenieure.de/src/img/startseite/referenzen.jpg",
+        "found_on": [
+          "https://www.skr-ingenieure.de/index.htm"
+        ]
+      },
+      {
+        "file": "images/012-kontakt-94f98553.jpg",
+        "role": "hero",
+        "width": 215,
+        "height": 94,
+        "source_url": "https://www.skr-ingenieure.de/src/img/startseite/kontakt.jpg",
+        "found_on": [
+          "https://www.skr-ingenieure.de/index.htm"
+        ]
+      },
+      {
+        "file": "images/013-startseite-160511-17-8581ac19.jpg",
+        "role": "hero",
+        "width": 450,
+        "height": 279,
+        "source_url": "https://www.skr-ingenieure.de/src/img/startseite/Startseite_160511_17.jpg",
+        "found_on": [
+          "https://www.skr-ingenieure.de/index.htm"
+        ]
+      },
+      {
+        "file": "images/015-leistungen-uebersicht-62bd81f1.jpg",
+        "role": "hero",
+        "width": 920,
+        "height": 255,
+        "source_url": "https://www.skr-ingenieure.de/src/img/leistungen/leistungen-uebersicht.jpg",
+        "found_on": [
+          "https://www.skr-ingenieure.de/leistungen.htm"
+        ]
+      },
+      {
+        "file": "images/016-tragwerksplanung-1e3894a3.jpg",
+        "role": "hero",
+        "width": 333,
+        "height": 154,
+        "source_url": "https://www.skr-ingenieure.de/src/img/leistungen/tragwerksplanung.jpg",
+        "found_on": [
+          "https://www.skr-ingenieure.de/leistungen.htm"
+        ]
+      },
+      {
+        "file": "images/017-bautechnische-pruefung-2f4228ad.jpg",
+        "role": "hero",
+        "width": 333,
+        "height": 154,
+        "source_url": "https://www.skr-ingenieure.de/src/img/leistungen/bautechnische-pruefung.jpg",
+        "found_on": [
+          "https://www.skr-ingenieure.de/leistungen.htm"
+        ]
+      },
+      {
+        "file": "images/018-gutachten-1db4eb0a.jpg",
+        "role": "hero",
+        "width": 333,
+        "height": 154,
+        "source_url": "https://www.skr-ingenieure.de/src/img/leistungen/gutachten.jpg",
+        "found_on": [
+          "https://www.skr-ingenieure.de/leistungen.htm"
+        ]
+      },
+      {
+        "file": "images/019-bauphysik-f81beeec.jpg",
+        "role": "hero",
+        "width": 333,
+        "height": 154,
+        "source_url": "https://www.skr-ingenieure.de/src/img/leistungen/bauphysik.jpg",
+        "found_on": [
+          "https://www.skr-ingenieure.de/leistungen.htm"
+        ]
+      },
+      {
+        "file": "images/020-header-kontakt-119c7c86.jpg",
+        "role": "hero",
+        "width": 920,
+        "height": 255,
+        "source_url": "https://www.skr-ingenieure.de/src/img/kontakt/header-kontakt.jpg",
+        "found_on": [
+          "https://www.skr-ingenieure.de/kontakt-anfahrt.htm",
+          "https://www.skr-ingenieure.de/kontakt.htm",
+          "https://www.skr-ingenieure.de/stellenangebote.htm",
+          "https://www.skr-ingenieure.de/links.htm",
+          "https://www.skr-ingenieure.de/datenschutz.htm",
+          "https://www.skr-ingenieure.de/impressum.htm"
+        ]
+      },
+      {
+        "file": "images/021-header-referenzen-43276836.jpg",
+        "role": "reference",
+        "width": 920,
+        "height": 255,
+        "source_url": "https://www.skr-ingenieure.de/src/img/referenzen/header-referenzen.jpg",
+        "found_on": [
+          "https://www.skr-ingenieure.de/referenzen.htm"
+        ]
+      },
+      {
+        "file": "images/022-hochbau-6903daa9.jpg",
+        "role": "reference",
+        "width": 333,
+        "height": 154,
+        "source_url": "https://www.skr-ingenieure.de/src/img/referenzen/hochbau.jpg",
+        "found_on": [
+          "https://www.skr-ingenieure.de/referenzen.htm"
+        ]
+      },
+      {
+        "file": "images/023-industriebau-34629561.jpg",
+        "role": "reference",
+        "width": 333,
+        "height": 154,
+        "source_url": "https://www.skr-ingenieure.de/src/img/referenzen/industriebau.jpg",
+        "found_on": [
+          "https://www.skr-ingenieure.de/referenzen.htm"
+        ]
+      },
+      {
+        "file": "images/026-umbauten-9ec1b99c.jpg",
+        "role": "reference",
+        "width": 333,
+        "height": 154,
+        "source_url": "https://www.skr-ingenieure.de/src/img/referenzen/umbauten.jpg",
+        "found_on": [
+          "https://www.skr-ingenieure.de/referenzen.htm"
+        ]
+      },
+      {
+        "file": "images/028-pdf-icon-feea047d.png",
+        "role": "logo",
+        "width": 23,
+        "height": 21,
+        "source_url": "https://www.skr-ingenieure.de/src/img/allgemein/pdf-icon.png",
+        "found_on": [
+          "https://www.skr-ingenieure.de/stellenangebote.htm"
+        ]
+      },
+      {
+        "file": "images/029-header-ueber-uns-29ba4399.jpg",
+        "role": "hero",
+        "width": 920,
+        "height": 255,
+        "source_url": "https://www.skr-ingenieure.de/src/img/ueber-uns/header-ueber-uns.jpg",
+        "found_on": [
+          "https://www.skr-ingenieure.de/ueber-uns-geschaeftsleitung.htm",
+          "https://www.skr-ingenieure.de/ueber-uns.htm"
+        ]
+      },
+      {
+        "file": "images/030-arrow-person-b4fa401d.png",
+        "role": "portrait",
+        "width": 13,
+        "height": 12,
+        "source_url": "https://www.skr-ingenieure.de/src/img/geschaeftsleitung/arrow-person.png",
+        "found_on": [
+          "https://www.skr-ingenieure.de/ueber-uns-geschaeftsleitung.htm"
+        ]
+      },
+      {
+        "file": "images/031-frank-riffel-4820982b.jpg",
+        "role": "content",
+        "width": 215,
+        "height": 176,
+        "source_url": "https://www.skr-ingenieure.de/src/img/geschaeftsleitung/frank-riffel.jpg",
+        "found_on": [
+          "https://www.skr-ingenieure.de/ueber-uns-geschaeftsleitung.htm"
+        ]
+      },
+      {
+        "file": "images/032-berndt-kienzle-cc2411f5.jpg",
+        "role": "content",
+        "width": 215,
+        "height": 176,
+        "source_url": "https://www.skr-ingenieure.de/src/img/geschaeftsleitung/berndt-kienzle.jpg",
+        "found_on": [
+          "https://www.skr-ingenieure.de/ueber-uns-geschaeftsleitung.htm"
+        ]
+      },
+      {
+        "file": "images/033-kurt-schumer-e1ec0ed3.jpg",
+        "role": "content",
+        "width": 215,
+        "height": 176,
+        "source_url": "https://www.skr-ingenieure.de/src/img/geschaeftsleitung/kurt-schumer.jpg",
+        "found_on": [
+          "https://www.skr-ingenieure.de/ueber-uns-geschaeftsleitung.htm"
+        ]
+      }
+    ],
+    "usage_target": 9
+  },
+  "content_fidelity": {
+    "references_present": true,
+    "service_count": 6,
+    "image_count": 33,
+    "usable_image_count": 29
+  },
+  "design_rules": [
+    {
+      "name": "technical-editorial",
+      "path": "app/knowledge/design-system/archetypes/technical-editorial.md",
+      "excerpt": "# Technical Editorial ## Einsatz Ingenieurbüros, Architektur, Sachverständige und technisch geprägte B2B-Dienstleister. ## Wirkung Präzise, hochwertig, sachlich und persönlich. Große Typografie, asymmetrische Raster und frühe Referenz- oder Kompetenzsignale. ## Regeln - Keine beliebigen runden Kachelwüsten. - Ruhige Flächen und klare vertikale Dramaturgie. - Leistungen präzise benennen; Referenzen und Erfahrung früh zeigen. - Animationen nur subtil einsetzen."
+    },
+    {
+      "name": "reference-psm-ingenieure",
+      "path": "app/knowledge/design-system/seeded/reference-psm-ingenieure.md",
+      "excerpt": "--- approved_by_user: true industries: [engineering, architecture] reference: psmingenieure.de --- # Engineering UX Reference Stärken: moderne UX, hochwertige Projektinszenierung, klare visuelle Hierarchie, großzügige Bildflächen, reduzierte Navigation und ruhige Interaktionen. Referenzen und Projekte früh zeigen. Geeignet für Ingenieur-, Architektur- und Planungsbüros."
+    },
+    {
+      "name": "reference-ing-ka-hero",
+      "path": "app/knowledge/design-system/seeded/reference-ing-ka-hero.md",
+      "excerpt": "--- approved_by_user: true industries: [engineering, consulting] reference: ing-ka.de --- # Rotating Service Hero Hero mit wechselnden Leistungsbegriffen. Bewegung ruhig und typografisch präzise. Als Akzent nutzen, nicht als hektischen Slider. Gut für komplexe Dienstleistungsportfolios."
+    },
+    {
+      "name": "reference-energy-consulting",
+      "path": "app/knowledge/design-system/seeded/reference-energy-consulting.md",
+      "excerpt": "--- approved_by_user: true industries: [energy consulting, renovation] reference: kaminkehrermeister-forster.de/energieberatung --- # Energy Consulting Structure Persönliche Vorstellung, verständliche Leistungserklärung, Vertrauensaufbau, klarer Projektablauf und direkte Kontaktführung. Struktur übernehmen, visuelle Gestaltung modernisieren und schwache Formulierungen verbessern."
+    }
+  ],
+  "publishing": {
+    "noindex": true,
+    "provider": "github-pages"
+  }
+}
