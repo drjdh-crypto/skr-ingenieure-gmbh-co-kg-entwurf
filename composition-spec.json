@@ -1,0 +1,58 @@
+{
+  "version": "11.0-composition-engine",
+  "seed": "02ad8a6624912ea0",
+  "archetype": "technical-editorial",
+  "direction": "precise, editorial, architectural",
+  "density": "generous",
+  "navigation": {
+    "variant": "brand_bar",
+    "sticky": true
+  },
+  "hero": {
+    "variant": "image_canvas",
+    "image_required": true,
+    "cta_mode": "primary-secondary"
+  },
+  "sections": {
+    "services": {
+      "variant": "editorial_chapters"
+    },
+    "references": {
+      "variant": "project_strip"
+    },
+    "about": {
+      "variant": "personal_panel"
+    },
+    "contact": {
+      "variant": "statement_contact"
+    },
+    "trust": {
+      "variant": "fact_band"
+    },
+    "process": {
+      "variant": "step_rail"
+    },
+    "team": {
+      "variant": "profile_grid"
+    }
+  },
+  "section_order": [
+    "hero",
+    "trust",
+    "services",
+    "references",
+    "process",
+    "team",
+    "about",
+    "contact"
+  ],
+  "fallback": {
+    "enabled": true,
+    "renderer": "legacy_v10"
+  },
+  "capabilities": {
+    "hero_image": true,
+    "portrait": true,
+    "references": true
+  }
+}
